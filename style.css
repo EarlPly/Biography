@@ -1,0 +1,14 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(#acdbc7,#dcebc4,#fbd2b4,#f6a8a4,#f38b94);
+  color: #fff;
+}
+.intro {
+  height: 100vh;
+  background: linear-gradient(#acdbc7,#dcebc4,#fbd2b4,#f6a8a4,#f38b94);
+}

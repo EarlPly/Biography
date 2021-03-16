@@ -1,0 +1,14 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:
+}
+body {
+  background: linear-gradient(#c2cdd3,#9cacb9,#7b8aa1,#5e6788,#45476e,#312f56,#231c3d);
+  color: #fff;
+}
+.intro {
+  height: 100vh;
+  background: linear-gradient(#c2cdd3,#9cacb9,#7b8aa1,#5e6788,#45476e,#312f56,#231c3d);
+}
